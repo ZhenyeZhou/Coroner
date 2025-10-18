@@ -1,7 +1,9 @@
-Member name: Zhenye Zhou
-Student number: 24531171
-Course submission: Individual assessment for CITS5553
+Member name: Zhenye Zhou.
+Student number: 24531171.
+Course submission: Individual assessment for CITS5553.
+
 GitHub repo: https://github.com/ZhenyeZhou/Coroner
+
 Team repo (group submission): https://github.com/AdamUWA/coroner
 
 # Coroner Project

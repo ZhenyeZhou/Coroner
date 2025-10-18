@@ -1,3 +1,9 @@
+Member name: Zhenye Zhou
+Student number: 24531171
+Course submission: Individual assessment for CITS5553
+GitHub repo: https://github.com/ZhenyeZhou/Coroner
+Team repo (group submission): https://github.com/AdamUWA/coroner
+
 # Coroner Project
 
 The coroner project is a Retrieval Augmented Generation (RAG) system for interacting with coroner's reports. The idea is to be able to get quick and factually accurate answers to questions about the content of the reports.
